@@ -1,0 +1,4 @@
+title: Stylvista
+date: 2013, Feb
+content: |
+  Laman sesawang e-commerce dibina untuk stylvista. Menggunakan kerangka Wordpress. Menggunakan konsep minimal bertujuan menonjolkan produk. Kemaskini rekabentuk dilaksana pada awal bulan Oktober 2014.

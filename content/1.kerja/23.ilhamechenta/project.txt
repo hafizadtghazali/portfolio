@@ -1,0 +1,4 @@
+title: Ilham Echenta Hijab House
+date: 2014, March
+content: |
+  Laman sesawang e-commerce dibina untuk Ilham Echenta Hijab House menggunakan kerangka Magento. Matlamat adalah untuk menghasilkan rasa yang penuh lembut dan minimalis, di mana kandungan dan produk dapat menjadi tumpuan tanpa terlalu banyak keriuhan sekelilingnya.

@@ -1,0 +1,4 @@
+title: DAM + Interactive
+date: 2011, December
+content: |
+  Laman sesawang dihasilkan bertujuan mempromosi aktiviti agensi DAM + Interactive. Laman dilaksana dengan menggunakan kerangka kerja Wordpress.

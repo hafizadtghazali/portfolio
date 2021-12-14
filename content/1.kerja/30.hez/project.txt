@@ -1,0 +1,4 @@
+title: Hez
+date: 2015, September
+content: | 
+  Hez merupakan kumpulan niaga yang menjual pelbagai jenis pakaian muslimah. Ditugaskan untuk merekabentuk dan membina sebuah laman kedai yang berpadanan dengan gaya rekaan pakaian mereka. Laman responsif ini menggunakan kerangka Wordpress untuk kendalian hasil jualan.

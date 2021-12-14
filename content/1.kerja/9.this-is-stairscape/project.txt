@@ -1,0 +1,4 @@
+title: this is stairscape
+date: 2010, October
+content: |
+  Instalasi dihasil untuk projek akhir tahun Universiti Multimedia. Bertemakan bunyi dimana pengguna disaji dengan bunyian persekitaran di Kuala Lumpur.

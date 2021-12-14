@@ -1,0 +1,4 @@
+title: Odda
+date: 2015, Oct
+content: |
+  Odda merupakan kumpulan niaga yang menjual pelbagai jenis aksesori pakaian wanita. Konsep merekabentuk dan membina laman kedai berpandukan gayaan minimalis. Laman ini menggunakan kerangka Wordpress untuk kendalian hasil jualan.

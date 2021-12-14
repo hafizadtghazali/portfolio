@@ -1,0 +1,4 @@
+title: Bydalili
+date: 2017, March
+content: |
+  Bydalili adalah jenama pakaian wanita. Konsepnya bersahaja dengan penggunaan gambar yang vibrance bagi menarik minat pengunjung. Laman ini menggunakan kerangka Wordpress Woocommerce untuk kendalian hasil jualan.
