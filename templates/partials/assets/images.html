@@ -1,0 +1,7 @@
+<div class="row no-gutters">
+	<div class="col-12 pt-3 pb-3">
+		{% for image in page.images %}
+			<img class="mb-3" src="{{ image.url }}" alt="{{ image.title }}">
+		{% endfor %}
+	</div>
+</div>

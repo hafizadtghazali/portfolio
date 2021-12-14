@@ -1,0 +1,20 @@
+{% for child in page.root %}
+  {% if child.children %}
+    <ul class="project-list row">
+        {% for child in child.children|reverse %}
+        	<li class="col-sm-12 col-lg-4">
+                <div class="browser">
+                    <div class="browser__chrome "><span class="browser__dots "></span></div>
+            		<div class="thumbnail">
+            			<a href="{{ child.url }}"><img class="fade-in" src="{{ child.thumb.url }}" alt=""></a>
+            		</div> 
+                </div>
+        		<div class="summary row no-gutters">
+        			<div class="col-6 p-0"><a href="{{ child.url }}">{{ child.title }}</a></div>
+        			<div class="col-6 text-right p-0"><em>{{ child.date }}</em></div>
+        		</div>
+        	</li>
+        {% endfor %}
+    </ul>
+  {% endif %}
+{% endfor %}

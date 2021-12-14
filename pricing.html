@@ -1,0 +1,152 @@
+<style>
+body {
+  font-family: sans-serif;
+}
+div {
+    display: block;
+}
+section p {
+    font-size: 1.875em;
+    color: #333;
+    margin-left: auto;
+    margin-right: auto;
+    clear: both;
+}
+div.clear {
+    clear: both;
+}
+div#main {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    clear: both;
+}
+div#price-chart {
+    width: 100%;
+    clear: both;
+    margin: 5em 0 4em 0;
+}
+div#price-chart div.scale {
+    width: 100%;
+    height: 4.125em;
+    clear: both;
+}
+div#price-chart div.scale div.value.first {
+    margin-left: 2%;
+}
+div#price-chart div.scale div.value.last {
+    margin-right: 2%;
+}
+div#price-chart div.scale div.value {
+    width: 16%;
+    height: 4.5em;
+    float: left;
+    background-image: url(public/images/bg_price-scale.svg);
+    background-position: center 2.25em;
+    background-repeat: no-repeat;
+}
+div#price-chart div.scale div.value p {
+    font-size: 1.5em;
+    color: #333;
+    text-align: center;
+    margin: 0;
+}
+div#price-chart div.activity {
+    width: 100%;
+    clear: both;
+}
+div#price-chart div.activity ul {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+div#price-chart div.activity ul li {
+    float: left;
+    border-bottom-style: solid;
+    border-bottom-width: 0.625em;
+    min-height: 7.5em;
+    text-align: left;
+}
+
+div#price-chart div.activity ul li p {
+    font-size: 1.063em;
+    color: #FFF;
+    margin: 0.75em;
+}
+div#price-chart div.activity ul li p.price {
+    display: none;
+}
+div#price-chart div.activity ul li.identity {
+    width: 8%;
+    background-color: #52291A;
+    border-color: #381D12;
+    margin-left: 2%;
+}
+div#price-chart div.activity ul li.simple-website {
+    width: 8%;
+    background-color: #CD5031;
+    border-color: #A64228;
+}
+div#price-chart div.activity ul li.cms {
+    width: 24%;
+    background-color: #ECC940;
+    border-color: #D5AE15;
+}
+div#price-chart div.activity ul li.e-commerce {
+    width: 40%;
+    background-color: #8EC4B7;
+    border-color: #6AB09F;
+}
+div#price-chart div.activity ul li.porn {
+    width: 16%;
+    background-color: #8A9441;
+    border-color: #778037;
+    margin-right: 2%;
+}
+div#nav-display hr, div.clear hr {
+    display: none;
+}
+</style>
+
+<div id="main">
+
+  <div id="price-chart">
+      <div class="scale">
+        <div class="value first">
+          <p>RM2,000</p>
+        </div>
+        <div class="value">
+          <p>RM5,000</p>
+        </div>
+        <div class="value">
+          <p>RM8,000</p>
+        </div>
+        <div class="value">
+          <p>RM10,000</p>
+        </div>
+        <div class="value">
+          <p>RM20,000</p>
+        </div>
+        <div class="value last">
+          <p>RM50,000</p>
+        </div>
+      </div>
+
+       
+        <div class="activity">
+          <ul>
+     
+        <li class="identity"><p class="price">RM500 – RM2000</p><p>Logos and brands</p></li>   
+        <li class="simple-website"><p class="price">RM2000 – RM3500</p><p>A simple website</p></li>   
+        <li class="cms"><p class="price">RM3500 – RM10000</p><p>A website where you can log-in and change the words and pictures on the pages</p></li>   
+        <li class="e-commerce"><p class="price">RM10000 – RM22500</p><p>A larger website where you can list things and sell them</p></li>   
+        <li class="porn"><p class="price">RM22500 – RM55500</p><p>Video-sharing website</p></li>   
+           
+          </ul>
+        </div>
+
+        <div class="clear"><hr></div>
+    </div>
+
+  </div>
