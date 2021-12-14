@@ -1,0 +1,4 @@
+title: Ilham Echenta Hijab House
+date: 2021, August
+content: |
+  Laman sesawang e-dagang dinaik taraf untuk Ilham Echenta Hijab House menggunakan kerangka Woocommerce. Masih menggunakan rekabentuk yang sama, matlamat adalah untuk menghasilkan laman yang responsif, di mana paparan pada semua peranti dan saiz skrin disesuaikan secara automatik.

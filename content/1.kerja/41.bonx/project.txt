@@ -1,0 +1,4 @@
+title: Bonx
+date: 2021, June
+content: |
+  Due to vast increment of local cycling community in Klang Valley and Malaysia as a whole, an online platform of BONX was created to cater for local community needs.
